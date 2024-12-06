@@ -23,7 +23,7 @@ I have completed this interesting assignmend given by Workindia. Worked well on 
 First clone the github repository
 
 ```bash
-  git clone https://github.com/nmastepankaj/irctc_booking_system.git
+  git clone https://github.com/Rohankashid/irctc_booking_system.git
 ```
 
 Open the repository folder in any code editor (VS code) or open any terminal.
